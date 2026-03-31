@@ -1,10 +1,13 @@
-Task 2: Explore Min, Max, and Median filters and apply those filters on noisy images and
-write 
+* Task 2: Explore Min, Max, and Median filters and apply those filters on noisy images and
+write
+* 
 1. Purpose of each filter 
 2. Your experimental results 
 3. Observations 4. Change
 kernel sizes and observe differences.
-OUTPUT:
+
+* OUTPUT:
+* 
 On nomal image:
 Here I am adding noise in the image manually
 <img width="624" height="225" alt="image" src="https://github.com/user-attachments/assets/8986a600-f8fd-4a1d-a370-cb88af8682e5" />
@@ -12,8 +15,9 @@ Here I am adding noise in the image manually
 On salt&Peper noise:  (the original = Noisy imges )
 <img width="624" height="225" alt="image" src="https://github.com/user-attachments/assets/ce2715cc-5592-4d42-954b-d61c38e4347b" />
 <img width="624" height="218" alt="image" src="https://github.com/user-attachments/assets/e25ad170-943a-4d26-a968-457f545a208a" />
-## Q&A:
-# 1. Purpose of Each Filter
+* Q&A: 
+*
+ 1. Purpose of Each Filter
 # Median Filter
 •	Removes salt-and-pepper noise 
 •	Replaces pixel with median value 
